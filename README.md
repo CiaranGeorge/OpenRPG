@@ -1,2 +1,0 @@
-# OpenRPG
-Community RPG
