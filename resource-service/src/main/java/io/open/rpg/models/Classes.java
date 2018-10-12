@@ -1,4 +1,4 @@
-package com.open.rpg.children;
+package io.open.rpg.models;
 
 import lombok.*;
 

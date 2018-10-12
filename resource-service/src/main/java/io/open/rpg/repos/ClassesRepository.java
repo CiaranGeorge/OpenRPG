@@ -1,5 +1,6 @@
-package com.open.rpg.children;
+package io.open.rpg.repos;
 
+import io.open.rpg.models.Classes;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
